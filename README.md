@@ -15,3 +15,7 @@ This is the deploy text
 Here the porpuse
 
 ## How to code
+
+### Copyright
+
+Giovanni Rocchini 2017
