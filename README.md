@@ -16,6 +16,8 @@ Here the porpuse
 
 ## How to code
 
+Please fork and then issue Pull Request
+
 ### Copyright
 
 Giovanni Rocchini 2017
