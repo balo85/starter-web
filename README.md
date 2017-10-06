@@ -8,6 +8,10 @@ This is a test intro
 
 ## Deployment
 
+This is the deploy text
+
 ## Purpose
+
+Here the porpuse
 
 ## How to code
