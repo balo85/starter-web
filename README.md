@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This i a simple website project. Add text here without
+This i a simple website project. Add text here without any problem with rebase
 
 ## Introduction
 
