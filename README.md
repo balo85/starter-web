@@ -20,4 +20,4 @@ Please fork and then issue Pull Request
 
 ### Copyright
 
-Giovanni Rocchini 2017
+Giovanni Rocchini 2017. All rights reserved.
